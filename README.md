@@ -26,13 +26,10 @@ Surya=Vijay
 Vijay=c
 print("Swapped values are:",Surya,Vijay)
 ```
-
-## RESULT:
-Thus the swapping of two values are successfully executed
-
 ## OUTPUT:
 ![Screenshot 2024-03-09 035527](https://github.com/VincyJovitha01/Swapping-two-values/assets/147121113/7daf702a-a4c0-4d5c-abe2-9f9e3d02c829)
 
-
+## RESULT:
+Thus the swapping of two values are successfully executed
 
 
