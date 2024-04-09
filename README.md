@@ -30,7 +30,7 @@ Vijay=c
 print("Swapped values are:",Surya,Vijay)
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-08 090929.png>)
+![alt text](exp1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
